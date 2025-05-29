@@ -1,0 +1,14 @@
+com\learn\thriftstore\entities\User.class
+com\learn\thriftstore\servlets\LoginServlet.class
+com\learn\thriftstore\dao\ProductDao.class
+com\learn\thriftstore\entities\Product.class
+com\learn\thriftstore\dao\CategoryDao.class
+com\learn\thriftstore\servlets\RegisterServlet.class
+com\learn\thriftstore\dao\UserDao.class
+com\learn\thriftstore\entities\Category.class
+com\mycompany\thrift\store\resources\JakartaEE10Resource.class
+com\learn\thriftstore\helper\Helper.class
+com\mycompany\thrift\store\JakartaRestConfiguration.class
+com\learn\thriftstore\servlets\ProductOperationServlet.class
+com\learn\thriftstore\helper\FactoryProvider.class
+com\learn\thriftstore\servlets\LogoutServlet.class
